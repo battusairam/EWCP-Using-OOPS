@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33712.159
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EWCP-Using-OOPS", "EWCP-Using-OOPS.csproj", "{3E3E430C-359D-4C19-B338-D40233CBF34D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E3E430C-359D-4C19-B338-D40233CBF34D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E3E430C-359D-4C19-B338-D40233CBF34D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E3E430C-359D-4C19-B338-D40233CBF34D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E3E430C-359D-4C19-B338-D40233CBF34D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {75E6981B-B26E-4914-A60E-8B01BEC21BF4}
+	EndGlobalSection
+EndGlobal
